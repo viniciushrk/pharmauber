@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend project pharmauber",
+  "main": "index.js",
+  "author": "viniciushrk",
+  "license": "MIT"
+}
